@@ -1,10 +1,10 @@
 <p align="center">
   <samp>
-    <br>Hello there! I'm Jordan.
-    <br>I'm a Game Developer / Software Engineer
+    Hello there! I'm Jordan.
+    <br>
+    I'm a Game Developer / Software Engineer
     <br>
     <br>| C++ | C# | Python | UE5 | Unity |
-    <br>
   </samp>
 </p>
 
