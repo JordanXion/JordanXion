@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    <br>Hello there! I'm Jordan.
+    <br>I'm a Game Developer / Software Engineer
+    <br>
+    <br>| C++ | C# | Python | UE5 | Unity |
+    <br>
+  </samp>
+</p>
 
 <!--
 **Xion4762/Xion4762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
