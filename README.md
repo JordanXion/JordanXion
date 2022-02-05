@@ -4,7 +4,7 @@
     <br>
     I'm a Game Developer / Software Engineer
     <br>
-    <br>| C++ | C# | Python | UE5 | Unity |
+    <br>| C++ | C# | Python | SQL | UE5 | Unity |
   </samp>
 </p>
 
