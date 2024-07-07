@@ -1,8 +1,6 @@
 <p align="center">
   <samp>
-    Hello there! I'm Jordan.
-    <br>
-    I'm a Game Developer / Software Engineer
+    Hello, I'm Jordan.
     <br>
     <br>| C++ | C# | Python | JavaScript | UE5 | Unity |
   </samp>
