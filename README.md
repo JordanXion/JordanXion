@@ -2,7 +2,8 @@
   <samp>
     Hello, I'm Jordan.
     <br>
-    <br>| C++ | C# | Python | JavaScript | UE5 | Unity |
+    <br>| C++ | C# | Python | JavaScript |
+    <br> | Godot | Unity | UE5 |
   </samp>
   <br>
   <br>
