@@ -2,6 +2,8 @@
   <samp>
     Hello, I'm Jordan.
     <br>
+    Discord: jx
+    <br>
     <br>| C++ | C# | Python | JavaScript |
     <br> | Godot | Unity | UE5 |
   </samp>
