@@ -21,7 +21,7 @@ jobs:
           # Options
           user: jordanxion
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: America/New_York
           plugin_achievements: yes
           plugin_habits: yes
